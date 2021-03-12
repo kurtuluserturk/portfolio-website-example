@@ -1,6 +1,6 @@
 # portfolio-website-example
 
-portfolio website example with SASS
+Portfolio website example with SCSS
 
 # Website link of the projet
 
